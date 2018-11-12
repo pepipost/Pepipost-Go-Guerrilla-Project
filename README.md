@@ -1,5 +1,5 @@
 # Pepipost-Go-Guerrilla-Project
-Un official repository of Go-gurrilla - Enhance queuing mechanism
+Unofficial repository of Go-gurrilla - Enhance queuing mechanism
 
 ### Objective
 Need contribution in [go-guerrilla](https://github.com/flashmob/go-guerrilla).
